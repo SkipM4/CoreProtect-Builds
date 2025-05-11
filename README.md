@@ -1,4 +1,4 @@
-Builds for [CoreProtect](https://github.com/PlayPro/CoreProtect/).  
+Build actions for [CoreProtect](https://github.com/PlayPro/CoreProtect/).  
 Outdated? Fork it and edit this file.  
 
 CoreProtect的自动构建。  
